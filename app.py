@@ -26,6 +26,8 @@ st.title("Data App - Prevendo Valores de Imóveis")
 # subtítulo
 st.markdown("Este é um Data App utilizado para exibir a solução de Machine Learning para o problema de predição de valores de imóveis de Boston.")
 
+st.markdown("Código da dupla Artur Tomé e João Guilherme")
+
 # verificando o dataset
 st.subheader("Selecionando apenas um pequeno conjunto de atributos")
 
