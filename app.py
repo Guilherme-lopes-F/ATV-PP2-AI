@@ -1,6 +1,6 @@
 
 import streamlit as st
-import panda as pd
+import pandas as pd
 import numpy as np
 import plotly.express as px
 from sklearn.ensemble import RandomForestRegressor
